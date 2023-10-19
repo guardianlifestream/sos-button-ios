@@ -1,2 +1,2 @@
-# lifestream-sos-button-ios
+# sos-button-ios
 SOS button for iOS platform
